@@ -3,7 +3,6 @@ layout: page
 excerpt: "About Me..."
 ---
 
-## About Me:
 I am a PhD candidate at Memorial University of Newfoundland, 
 under the supervision of Dr. Paul Snelgrove and Dr. Robert 
 Gregory. I am a student with the Canadian Healthy Oceans 
