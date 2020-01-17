@@ -1,19 +1,22 @@
 # Site wide configuration
 
-title: Academic Website of Ted Laderas
-locale: en_US
+title: Research Website of Emilie Geissinger
+locale: en_CA
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Ted Laderas
+  name: Emilie Geissinger
   avatar: bio-photo.jpg
-  bio: "This is a sample Jekyll academic website."
-  email: laderast@ohsu.edu
+  bio: "This site provides research updates from Emilie 
+Geissinger, BSc. Emilie is a Biology PhD candidate at 
+Memorial University of Newfoundland, with a research focus in 
+juvenile fish ecology."
+  email: eageissinger@mun.ca
   # Do not include the @ symbol in your Twitter username
-  twitter: laderast
+  twitter: emiliegeiss
   linkedin: #username
-  github: laderast
+  github: eageissinger
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
