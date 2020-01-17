@@ -1,7 +1,5 @@
 ---
-layout: page
-title: Curriculum Vitae
-permalink: /cv/
+layout: resume
 ---
 ### **Emilie Geissinger**
 Department of Biology  
