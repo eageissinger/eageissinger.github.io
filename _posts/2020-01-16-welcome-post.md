@@ -1,8 +1,9 @@
-post
+---
+layout: post
 title: Welcome
 excerpt: "Welcome to my new research site."
-modified: 2/29/2016, 9:00:24
-tags: [intro, beginner, jekyll, tutorial]
+modified: 16/01/2020, 9:00:24
+tags:
 comments: true
 category: blog
 ---
