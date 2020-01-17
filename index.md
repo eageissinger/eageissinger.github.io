@@ -12,7 +12,7 @@ morhua*). In addition to my dissertation, I spend time teaching
 coding and data science skills to researchers as a 
 [Carpentries](https://carpentries.org) instructor, and help run 
 a coding group 
-([RBar])(https://daniellequinn.github.io/RBarMUN/) at Memorial 
+([RBar](https://daniellequinn.github.io/RBarMUN/)) at Memorial 
 University of Newfoundland.
 
 My scientific career started when I was a student at Bates 
