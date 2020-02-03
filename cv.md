@@ -1,5 +1,7 @@
 ---
-layout: resume
+layout: page
+title: Curriculum vitae
+permalink: /cv/
 ---
 ### **Emilie Geissinger**
 Department of Biology  
@@ -12,8 +14,7 @@ eageissinger@mun.ca
 
 #### **Education**  
 **PhD Candidate in Biology**  
-*Memorial University of Newfoundland, St. John's, NL, 
-Canada*    
+*Memorial University of Newfoundland, St. John's, NL, Canada*    
 
 **Bachelor of Science**  
 *Bates College, Lewiston, ME, USA*  
