@@ -11,8 +11,9 @@ eageissinger@mun.ca
 
 
 #### **Education**
-**PhD Candidate in Biology**  
-*Memorial University of Newfoundland, St. John's, NL, Canada*  
+`PhD Candidate in Biology`  
+_Memorial University of Newfoundland, St. John's, NL, 
+Canada_  
 
 **Bachelor of Science**  
 *Bates College, Lewiston, ME, USA*  
