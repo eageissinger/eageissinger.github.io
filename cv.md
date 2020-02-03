@@ -10,16 +10,16 @@ St. John's, NL A1C 5E3
 eageissinger@mun.ca  
 
 
-#### **Education**
-`PhD Candidate in Biology`  
-_Memorial University of Newfoundland, St. John's, NL, 
-Canada_  
+#### **Education**  
+**PhD Candidate in Biology**  
+*Memorial University of Newfoundland, St. John's, NL, 
+Canada*    
 
 **Bachelor of Science**  
 *Bates College, Lewiston, ME, USA*  
 
 
-#### **Research Experience**
+#### **Research Experience**  
 **PhD**  
 Overwinter survival of juvenile Atlantic cod (*Gadus morhua*) in their first year of life  
 - Effect of food availability and size on overwinter growth, condition, and survival
@@ -44,7 +44,7 @@ Collaborator: Brian Beal, University of Maine, Machias
 - Pleasure Craft Operator License 
 - Restricted Operator's Certificate (Maritime)  
 
-#### **Conferences, Meetings, and Media**  
+#### **Conferences, Meetings, and Media**    
 
 **Conferences and Presentations:**  
 
@@ -92,7 +92,7 @@ retrieved from www.cbc.ca/news/canada/newfoundland-labrador
 
 The Broadcast (2017, July 4). The future of the cod fisheries. *CBC Radio*  
 
-#### **Publications**
+#### **Publications**  
 
 **Geissinger, E.A.**, Beal, B., and W.G. Ambrose, Jr. 2019. Feeding preference and trophic position of the Wrymouth 
 (*Cryptacanthodes maculatus*), a burrowing predatory fish. *In review*.
@@ -107,7 +107,7 @@ survival and condition of age-0 Atlantic cod (*Gadus morhua*). *In prep*.
 **Geissinger, E.A.**, Khoo, C.L.L., Richmond, I.C., Faulkner, S.J.M., and D.C. Schneider. 2019. Better with Beta: Evaluating 
 beta regression in natural sciences. *In prep*.
 
-#### **Teaching Experience**  
+#### **Teaching Experience**    
 
 **Software Carpentries Instructor**  
 February 2018 - present  
